@@ -4,7 +4,7 @@ The goal is to apply LeNet-5 on minist data and predict the handwritten digits. 
 ![](images/mnist.png)
 
 ## Prerequisites:
-Download the following modules:
+Download the following :
 * [Keras](https://pypi.org/project/tensorflow/) 
 * [tensorflow](https://pypi.org/project/Keras/)
 * [mnist_data](https://pypi.org/project/mnist/)
